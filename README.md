@@ -1,9 +1,9 @@
 # awesome-android
-Featuring all kinds of remarkable Android software
+Featuring all kinds of remarkable Android software and resources.
 
 ## Stores
 - [F-Droid](https://f-droid.org/es/): Open source app store.
-- [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) <sup>[[F-Droid]](https://f-droid.org/en/packages/com.aurora.store/)</sup>: Alternative app of Play Store.
+- [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) <sup>[[F-Droid]](https://f-droid.org/en/packages/com.aurora.store/)</sup>: Alternative to Play Store.
   
 ## Apps
   
