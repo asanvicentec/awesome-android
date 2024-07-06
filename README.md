@@ -25,7 +25,7 @@ Featuring all kinds of remarkable Android software and resources.
 
 
 ### Utilities / Productivity
-- [Trail Scale](https://github.com/kylecorry31/Trail-Sense) <sup>[[F-Droid]](https://f-droid.org/packages/com.kylecorry.trail_sense/)</sup> <sup>[[Play Store]](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)</sup>: Provides numerous useful tools for walks in the wild and must have in survival situations. Designed to work offline.
+- [Trail Sense](https://github.com/kylecorry31/Trail-Sense) <sup>[[F-Droid]](https://f-droid.org/packages/com.kylecorry.trail_sense/)</sup> <sup>[[Play Store]](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)</sup>: Provides numerous useful tools for walks in the wild and must have in survival situations. Designed to work offline.
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) <sup>[[F-Droid]](https://f-droid.org/packages/de.seemoo.at_tracking_detection/)</sup> <sup>[[Play Store]](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release)</sup>: Scans and tracks nearby AirTags. You may need to grant access to quite a bit of permissions.
 - [Termux](https://github.com/termux/termux-app) <sup>[[F-Droid]](https://f-droid.org/packages/com.termux/)</sup>: Terminal emulator.
 - [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) <sup>[[F-Droid]](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/)</sup>: Connect and control wearables, headphones and more.
